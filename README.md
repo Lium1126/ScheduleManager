@@ -31,5 +31,5 @@
 
 ## Author
 
-- Lium1126
-  - Aichi Institute of Technology
+- [Lium1126](https://github.com/Lium1126)
+- Aichi Institute of Technology
