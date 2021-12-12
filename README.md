@@ -33,3 +33,7 @@
 
 - [Lium1126](https://github.com/Lium1126)
 - Aichi Institute of Technology
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT](./LICENSE) license.
